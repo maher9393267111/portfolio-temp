@@ -3,8 +3,8 @@ import AnimatedText from "./AnimatedText";
 import AboutPopup from "./popup/AboutPopup";
 
 const aboutData = {
-  firstName: "Manuel",
-  lastName: "Barreiro",
+  firstName: "Mohammed",
+  lastName: "Jumah",
   bithday: "06.07.1991",
   address: "Montevideo, Uruguay",
   phn: "+598 92 447 494",
