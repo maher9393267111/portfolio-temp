@@ -12,6 +12,7 @@ const AnimatedText = () => {
     }, 5000);
     return () => clearInterval(interval);
   });
+  
   return (
     <span className="cd-headline rotate-1">
       <span className="cd-words-wrapper">
